@@ -67,6 +67,8 @@
     </script>
 </head>
 <body>
+    <h2>Website Updated - Refresh If Needed</h2>
+    
     <h1>Choose Your Joke Style</h1>
     <button onclick="getRandomLink('light')">Light Humor</button>
     <button onclick="getRandomLink('dark')">Dark Humor</button>
